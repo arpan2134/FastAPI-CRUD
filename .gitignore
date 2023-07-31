@@ -20,7 +20,7 @@ wheels/
 *.egg 
 *.manifest 
 *.spec 
-app/
+
 
 
 # Environments 
